@@ -10,4 +10,9 @@
     <Folder Include="Contexts\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Flunt" Version="2.0.5" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+  </ItemGroup>
+
 </Project>

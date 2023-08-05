@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <ItemGroup>
     <ProjectReference Include="..\JwtStore.Core\JwtStore.Core.csproj" />
@@ -17,6 +17,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>231a49ac-d218-4ea2-a79e-4feb63b42b49</UserSecretsId>
   </PropertyGroup>
 
 </Project>
