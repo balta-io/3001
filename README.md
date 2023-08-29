@@ -1,3 +1,5 @@
+https://github.com/balta-io/3001/assets/965305/7e8aafc4-10f0-400c-988d-006eef7e1aed
+
 # Introdução
 
 Olá e seja bem-vindo(a) ao curso Segurança em APIs [ASP.NET](http://ASP.NET) com JWT e Bearer Authentication do balta.io, eu sou André Baltieri, ou balta, 10x Microsoft MVP e vou te guiar por este curso.
